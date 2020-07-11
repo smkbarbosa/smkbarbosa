@@ -2,7 +2,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@smk_barbosa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/smk_barbosa)](https://twitter.com/smk_barbosa) [![Linkedin Badge](https://img.shields.io/badge/-smkbarbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smkbarbosa/)](https://www.linkedin.com/in/smkbarbosa/) [![Telegram Badge](https://img.shields.io/badge/-@smk_barbosa-1ca0f1?style=flat-square&labelColor=ffffff&logo=Telegram&link=https://t.me/smk_barbosa)](https://t.me/smk_barbosa) [![Wordpress Badge](https://img.shields.io/badge/-smk_barbosa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=wordpress&link=https://smkbarbosa.eti.br)](https://smkbarbosa.eti.br)
 ---
 
-Sou o Samuel, trabalho na rede federal de educação, atualmente lotado na [UFT](https://uft.edu.br). Escrevo de vez em quando no meu [blog](https://smkbarbosa.eti.br)
+Sou o Samuel, trabalho na rede federal de educação, atualmente lotado na [UFT](https://uft.edu.br). De vez em quando apareço pra escrever [aqui](https://smkbarbosa.eti.br).
 
 ## 🧐 Sobre
 - 🚵 Criando paixão por MTB
