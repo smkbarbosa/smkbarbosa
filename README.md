@@ -8,7 +8,8 @@ Sou o Samuel, trabalho na rede federal de educação, atualmente lotado na [UFT]
 - 🚵 Criando paixão por MTB
 - 😄 Colaborador no site [SempreUpdate](https://sempreupdate.com.br)
 - 🎸 Apaixonado por música, voluntário na [Adoração Sibapa](https://sibapa.com)
-- 🎓 Tecnólogo em Sistemas para Internet (IFTO) e Pós-graduando em Engenharia de Software (Faculdade Metropolitana de São Paulo)
+- 🎓 Tecnólogo em Sistemas para Internet (IFTO) 
+- 🎓 Pós-graduado em Engenharia de Software (Faculdade Metropolitana de São Paulo)
 
 
 # Conecte-se!! 🤔
