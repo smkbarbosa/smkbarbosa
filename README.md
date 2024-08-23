@@ -3,6 +3,7 @@
 ---
 
 Sou o Samuel, trabalho no Poder Judiciário do TO, atualmente lotado no [TJTO](https://wwa.tjto.jus.br). De vez em quando apareço pra escrever [aqui](https://smkbarbosa.eti.br).
+
 Gestão de Negócios, Desenvolvimento e Consultoria (TI e Processos Comerciais) prestados através da [Manu's](https://manus.inf.br).
 
 ## 🧐 Sobre
