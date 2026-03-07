@@ -9,7 +9,7 @@ Gestão de Negócios, Desenvolvimento e Consultoria (TI e Processos Comerciais) 
 ## 🧐 Sobre
 - 🚵 Criando paixão por MTB
 - 😄 Colaborador no site [SempreUpdate](https://sempreupdate.com.br)
-- 🎸 Apaixonado por música, voluntário na [Adoração Sibapa](https://sibapa.com) 
+- 🎸 Apaixonado por música, voluntário na [Adoração Crescer](https://igrejacrescer.com) 
 - 🎓 Tecnólogo em Sistemas para Internet (IFTO) 
 - 🎓 Pós-graduado em Engenharia de Software (Faculdade Metropolitana de São Paulo)
 - 🎓 Pós-graduando em Marketing Digital e Vendas (Faculdade Uniamérica Descomplica)
